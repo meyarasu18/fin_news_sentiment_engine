@@ -1,0 +1,31 @@
+id,date,company,sector,headline,sentiment
+1,2026-01-01,Apple,Technology,"Apple reports record quarterly earnings",Positive
+2,2026-01-02,Tesla,Automobile,"Tesla shares fall after weak delivery numbers",Negative
+3,2026-01-03,Microsoft,Technology,"Microsoft acquires AI startup",Positive
+4,2026-01-04,Amazon,E-Commerce,"Amazon expands cloud business in Asia",Positive
+5,2026-01-05,NVIDIA,Semiconductors,"NVIDIA announces next-generation AI chips",Positive
+6,2026-01-06,Google,Technology,"Google faces antitrust investigation",Negative
+7,2026-01-07,Meta,Technology,"Meta launches new AI assistant",Positive
+8,2026-01-08,Netflix,Entertainment,"Netflix subscriber growth remains stable",Neutral
+9,2026-01-09,Intel,Semiconductors,"Intel opens new semiconductor manufacturing plant",Positive
+10,2026-01-10,Boeing,Aerospace,"Boeing reports manufacturing delays",Negative
+11,2026-01-11,IBM,Technology,"IBM signs major cloud computing contract",Positive
+12,2026-01-12,Oracle,Technology,"Oracle revenue meets analyst expectations",Neutral
+13,2026-01-13,Goldman Sachs,Finance,"Goldman Sachs reports increased profits",Positive
+14,2026-01-14,JPMorgan,Finance,"JPMorgan warns about economic slowdown",Negative
+15,2026-01-15,Coca-Cola,Beverages,"Coca-Cola launches new beverage line",Positive
+16,2026-01-16,Nike,Retail,"Nike sales remain unchanged",Neutral
+17,2026-01-17,Adobe,Software,"Adobe introduces AI-powered editing tools",Positive
+18,2026-01-18,PayPal,Finance,"PayPal experiences service outage",Negative
+19,2026-01-19,Visa,Finance,"Visa transaction volume increases",Positive
+20,2026-01-20,Mastercard,Finance,"Mastercard expands digital payment services",Positive
+21,2026-01-21,Infosys,IT,"Infosys wins international software project",Positive
+22,2026-01-22,TCS,IT,"TCS reports stable quarterly revenue",Neutral
+23,2026-01-23,Wipro,IT,"Wipro announces workforce reduction",Negative
+24,2026-01-24,Reliance,Energy,"Reliance invests in renewable energy",Positive
+25,2026-01-25,Tata Motors,Automobile,"Tata Motors launches electric SUV",Positive
+26,2026-01-26,Maruti Suzuki,Automobile,"Maruti vehicle sales decline",Negative
+27,2026-01-27,HDFC Bank,Banking,"HDFC Bank posts strong quarterly results",Positive
+28,2026-01-28,ICICI Bank,Banking,"ICICI Bank maintains steady growth",Neutral
+29,2026-01-29,Axis Bank,Banking,"Axis Bank reports fraud investigation",Negative
+30,2026-01-30,State Bank of India,Banking,"SBI announces digital banking expansion",Positive
